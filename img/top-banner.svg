@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="500" viewBox="0 0 900 500">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="72" cy="72" r="72" transform="translate(0 0)" fill="#14a800"/>
+    </clipPath>
+    <clipPath id="clip-Top-banner">
+      <rect width="900" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Top-banner" clip-path="url(#clip-Top-banner)">
+    <rect width="900" height="500" fill="#fff"/>
+    <text id="DEVELOPER" transform="translate(56.603 404.5) rotate(-90)" fill="rgba(221,242,218,0.67)" font-size="50" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">DEVELOPER</tspan></text>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(83 83) rotate(-180)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="84" height="84" transform="translate(0 0)" fill="#14a800"/>
+    </g>
+  </g>
+</svg>

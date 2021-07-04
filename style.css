@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400;500;600;700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.shah {
+    color: #14A800;
+}
+
+h1 {
+    font-family: 'Domine', serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.mar {
+    margin-top: -20px;
+}
+
+section {
+    display: flex;
+}
+
+.top-banner {
+    background-image: url(img/top-banner.svg);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width video {
+    width: 80%;
+}
+
+
+.btn {
+    background-image: linear-gradient(to right, #56ab2f 0%, #a8e063  51%, #56ab2f  100%);
+    margin-top: 15px;
+    padding: 15px 40px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 6px;
+    display: block;
+    border: none;
+    width: 15%;
+}
+
+ .btn:hover {
+   background-position: right center;
+   color: #fff;
+   text-decoration: none;
+ }
