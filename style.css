@@ -12,6 +12,11 @@ body {
     color: #14A800;
 }
 
+.ex-h {
+    color: #14A800;
+    font-size: 2rem;
+}
+
 h1 {
     font-family: 'Domine', serif;
     font-weight: 700;
@@ -27,7 +32,7 @@ p {
     margin-top: -20px;
 }
 
-section {
+.flexible-container {
     display: flex;
 }
 
@@ -101,3 +106,19 @@ section {
     color: #fff;
     text-decoration: none;
   }
+
+  .box {
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    margin-left: 5%;
+    margin-right: 5%; 
+    border-radius: 10px;
+  }
+
+.exp {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+}
