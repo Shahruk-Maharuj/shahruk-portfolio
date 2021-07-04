@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="500" viewBox="0 0 900 500">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#14a800"/>
+      <stop offset="1" stop-color="#f2fff0"/>
+    </linearGradient>
+    <clipPath id="clip-Top-banner">
+      <rect width="900" height="500"/>
+    </clipPath>
+  </defs>
+  <g id="Top-banner" clip-path="url(#clip-Top-banner)">
+    <rect width="900" height="500" fill="#fff"/>
+    <g id="Group_2" data-name="Group 2">
+      <text id="MY_DREAM" data-name="MY DREAM" transform="translate(882 286.5) rotate(-90)" fill="rgba(242,247,241,0.67)" font-size="50" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">MY DREAM</tspan></text>
+      <g id="Group_1" data-name="Group 1">
+        <path id="Polygon_1" data-name="Polygon 1" d="M60.5,0,121,85H0Z" transform="translate(807.309 346.5) rotate(40)" fill="#3b8124"/>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="48.5" cy="48.5" r="48.5" transform="translate(780.5 362.446)" fill="#14a800" opacity="0.634"/>
+      </g>
+    </g>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="70" cy="70" r="70" transform="translate(9.5 113.446)" opacity="0.634" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
